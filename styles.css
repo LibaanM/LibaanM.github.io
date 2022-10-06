@@ -2,6 +2,14 @@ body {
     background:green;
     font-family: Arial, Helvetica, sans-serif;
 }
+.assignement{
+    display: flex;
+    padding: 10px;
+}
+.assignement img{
+    width: 200px;
+    padding: 10px;
+}
 h1{
     color:aqua;
     text-align:center;
