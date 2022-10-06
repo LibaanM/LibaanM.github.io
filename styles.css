@@ -2,11 +2,11 @@ body {
     background:green;
     font-family: Arial, Helvetica, sans-serif;
 }
-.assignement{
+.assignment{
     display: flex;
     padding: 10px;
 }
-.assignement img{
+.assignment img{
     width: 200px;
     padding: 10px;
 }
